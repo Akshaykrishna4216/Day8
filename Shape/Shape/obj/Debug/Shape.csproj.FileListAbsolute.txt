@@ -1,0 +1,8 @@
+D:\UST\Day9\Shape\Shape\bin\Debug\Shape.exe.config
+D:\UST\Day9\Shape\Shape\bin\Debug\Shape.exe
+D:\UST\Day9\Shape\Shape\bin\Debug\Shape.pdb
+D:\UST\Day9\Shape\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+D:\UST\Day9\Shape\Shape\obj\Debug\Shape.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day9\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\UST\Day9\Shape\Shape\obj\Debug\Shape.exe
+D:\UST\Day9\Shape\Shape\obj\Debug\Shape.pdb

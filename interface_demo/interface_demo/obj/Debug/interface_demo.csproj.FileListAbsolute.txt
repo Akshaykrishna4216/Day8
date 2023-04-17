@@ -1,0 +1,8 @@
+D:\UST\Day9\interface_demo\interface_demo\bin\Debug\interface_demo.exe.config
+D:\UST\Day9\interface_demo\interface_demo\bin\Debug\interface_demo.exe
+D:\UST\Day9\interface_demo\interface_demo\bin\Debug\interface_demo.pdb
+D:\UST\Day9\interface_demo\interface_demo\obj\Debug\interface_demo.csproj.AssemblyReference.cache
+D:\UST\Day9\interface_demo\interface_demo\obj\Debug\interface_demo.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day9\interface_demo\interface_demo\obj\Debug\interface_demo.csproj.CoreCompileInputs.cache
+D:\UST\Day9\interface_demo\interface_demo\obj\Debug\interface_demo.exe
+D:\UST\Day9\interface_demo\interface_demo\obj\Debug\interface_demo.pdb
